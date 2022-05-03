@@ -1,4 +1,4 @@
 {
   "mongoURI":
-    "mongodb://localhost:27017/localization"
+    "mongodb+srv://localization:pass@1234@localization.xatz7.mongodb.net/test"
 }
